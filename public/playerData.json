@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/cXV5Lcj/pngtree-an-illustration-of-a-pakistani-batsman-image-15715697.jpg",
+      "playerName": "John Smith",
+      "countryName": "Australia",
+      "playerType": "Batsman",
+      "hand": "Right-hand",
+      "bowlingType": "None",
+      "price": 1200000
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/mvJcG8X/file-photo-dated-18-07-2021-of-englands-jos-buttler-jos-buttler-underlined-his-status-as-one-of-the.jpg",
+      "playerName": "Rajesh Kumar",
+      "countryName": "India",
+      "playerType": "Bowler",
+      "hand": "Left-hand",
+      "bowlingType": "Fast",
+      "price": 800000
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/9Tj9ZGT/cricket-tour-match-presidents-xl-v-england-university-of-free-state-GC57-RK.jpg",
+      "playerName": "Chris Johnson",
+      "countryName": "England",
+      "playerType": "All-Rounder",
+      "hand": "Right-hand",
+      "bowlingType": "Medium",
+      "price": 1500000
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/dp7rq4V/eoin-morgan-latest-main.jpg",
+      "playerName": "Ahmed Malik",
+      "countryName": "Pakistan",
+      "playerType": "Bowler",
+      "hand": "Right-hand",
+      "bowlingType": "Leg Spin",
+      "price": 950000
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/rtGwDzt/gettyimages-1711635507-612x612.jpg",
+      "playerName": "David Warner",
+      "countryName": "Australia",
+      "playerType": "Batsman",
+      "hand": "Left-hand",
+      "bowlingType": "None",
+      "price": 2000000
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/ZNxYz23/zaheer-khan-former-indian-cricketer-who-played-all-forms-game-national-cricket-team-till-was-second.webp",
+      "playerName": "Mohammad Ali",
+      "countryName": "Bangladesh",
+      "playerType": "Wicketkeeper",
+      "hand": "Right-hand",
+      "bowlingType": "None",
+      "price": 700000
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co/v1MXjBj/ravindra-jadeja-wearing-a-cap-and-sunglasses-plagfbc8nl4mfp8u.jpg",
+      "playerName": "Kane Williamson",
+      "countryName": "New Zealand",
+      "playerType": "Batsman",
+      "hand": "Right-hand",
+      "bowlingType": "Off Spin",
+      "price": 1800000
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co/TgZRtJw/images-7.jpg",
+      "playerName": "Carlos Brathwaite",
+      "countryName": "West Indies",
+      "playerType": "All-Rounder",
+      "hand": "Right-hand",
+      "bowlingType": "Fast",
+      "price": 1300000
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co/JRrjq9c/download-2.jpg",
+      "playerName": "Hashim Amla",
+      "countryName": "South Africa",
+      "playerType": "Batsman",
+      "hand": "Right-hand",
+      "bowlingType": "None",
+      "price": 1100000
+    },
+    {
+      "id": 10,
+      "image": "https://i.ibb.co/N1RK9WX/keith-johnston-Pen-ZT-IMr-V8-unsplash.jpg",
+      "playerName": "Angelo Mathews",
+      "countryName": "Sri Lanka",
+      "playerType": "All-Rounder",
+      "hand": "Right-hand",
+      "bowlingType": "Medium",
+      "price": 900000
+    },
+    {
+      "id": 11,
+      "image": "https://i.ibb.co/6yDvw53/yogendra-singh-Nzk-JLYSj1-Hg-unsplash.jpg",
+      "playerName": "Shoaib Akhtar",
+      "countryName": "Pakistan",
+      "playerType": "Bowler",
+      "hand": "Right-hand",
+      "bowlingType": "Fast",
+      "price": 1000000
+    },
+    {
+      "id": 12,
+      "image": "https://i.ibb.co/LQGT0hq/alfred-kenneally-Kw8b-XVwk-SG0-unsplash.jpg",
+      "playerName": "Shakib Al Hasan",
+      "countryName": "Bangladesh",
+      "playerType": "All-Rounder",
+      "hand": "Left-hand",
+      "bowlingType": "Spin",
+      "price": 2200000
+    }
+  ]
+  
